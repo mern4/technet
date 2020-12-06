@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://mern2020:mern2020@technet.vi5qe.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret",
+    "githubToken": "fe17d39f5d1d919229a33dd28977855828047c37"
+}
